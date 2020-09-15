@@ -19,10 +19,10 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/uCZPNoeoaLjt6/giphy.gif" />
 
 ### I am Ege Hoşgüngör
-- An ML & Open Source enthusiast.
-- Bachelor Degree in Mechanical Engineering.
-- Master Degree in Computer Science.
+-Futuristic and Curious
+- An AI & Robotics enthusiast.
+- Bachelor Degree in Mechanical Engineering / Master Degree in Computer Science
 - Currently working on dissertation about Reinforcement learning in a Pandemic Simulation.
-- I'm currently sharpening my skills in deep learning, tensorflow
+- Development: sharpening my skills in deep learning, tensorflow
 
 
