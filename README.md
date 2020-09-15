@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ege Hoşgüngör</h1>
+<h1 align="center">Hi 👋, Welcome to the Good Place</h1>
 <h3 align="center">A passionate MSc Student in Computer Science at University of Sussex </h3>
 
 
