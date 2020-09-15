@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, Welcome to the Good Place</h1>
+<h1 align="center">Hi 👋, I am Ege Hoşgüngör</h1>
 <h3 align="center">A passionate MSc Student in Computer Science at University of Sussex </h3>
 
 
@@ -18,7 +18,6 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/uCZPNoeoaLjt6/giphy.gif" />
 
-### I am Ege Hoşgüngör
 - Futuristic and Curious
 - An AI & Robotics enthusiast.
 - Bachelor Degree in Mechanical Engineering / Master Degree in Computer Science
