@@ -22,7 +22,7 @@
 - Futuristic and Curious
 - An AI & Robotics enthusiast.
 - Bachelor Degree in Mechanical Engineering / Master Degree in Computer Science
-- Currently working on dissertation about Reinforcement learning in a Pandemic Simulation.
+- Currently working on dissertation about [Reinforcement learning in a Pandemic Simulation](https://github.com/Hsgngr/Pandemic_Simulation).
 - Development: sharpening my skills in deep learning, tensorflow
 
 
