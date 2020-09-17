@@ -16,12 +16,15 @@
   <img align="left" alt="Ege's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/uCZPNoeoaLjt6/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ce6oKQHQinAUU/giphy.gif" />
 
 - Futuristic and Curious
 - An AI & Robotics enthusiast.
 - Bachelor Degree in Mechanical Engineering / Master Degree in Computer Science
 - Currently working on dissertation about [Reinforcement learning in a Pandemic Simulation](https://github.com/Hsgngr/Pandemic_Simulation).
 - Development: sharpening my skills in deep learning, tensorflow
+
+<a href="https://https://www.buymeacoffee.com/hosgungor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
 
