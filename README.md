@@ -24,6 +24,6 @@
 - Development: sharpening my skills in deep learning, tensorflow
 
 
-<a href="https://https://www.buymeacoffee.com/hosgungor" target="_blank"><img align="right" src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/hosgungor" target="_blank"><img align="right" src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
