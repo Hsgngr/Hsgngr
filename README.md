@@ -16,7 +16,7 @@
   <img align="left" alt="Ege's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/kbcB2rAzHCtos/giphy.gif" />
+
 
 - Futuristic and Curious
 - An AI & Robotics enthusiast.
