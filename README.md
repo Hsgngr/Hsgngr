@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I am Ege Hoşgüngör</h1>
-<h3 align="center">A passionate MSc Student in Computer Science at University of Sussex </h3>
+<h3 align="center">A passionate MSc Graduate in Computer Science from University of Sussex </h3>
 
 
 <a href="https://www.linkedin.com/in/hosgungor/">
