@@ -12,7 +12,10 @@
 <a href="https://www.hackerrank.com/hsgngr">
   <img align="left" alt="Ege's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://www.kaggle.com/ajaykhalsa">
+<a href="https://leetcode.com/EgeHsgngr/">
+  <img align="left" alt="Ege's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.kaggle.com/egehosgungor">
   <img align="left" alt="Ege's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 </a>
