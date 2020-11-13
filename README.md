@@ -9,6 +9,9 @@
 <a href="https://github.com/Hsgngr">
   <img align="left" alt="Ege's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://medium.com/@hosgungor">
+  <img align="left" alt="Ege's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 <a href="https://www.hackerrank.com/hsgngr">
   <img align="left" alt="Ege's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
