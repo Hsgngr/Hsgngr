@@ -26,12 +26,15 @@
 <br />
 
 
-
-- Futuristic and Curious
-- An AI & Robotics enthusiast.
 - Bachelor Degree in Mechanical Engineering / Master Degree in Computer Science
-- Just finished my dissertation about [Reinforcement learning in a Pandemic Simulation](https://github.com/Hsgngr/Pandemic_Simulation). <a href="https://www.buymeacoffee.com/hosgungor" target="_blank"><img align="right" src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+- Just finished my dissertation about [Reinforcement learning in a Pandemic Simulation](https://github.com/Hsgngr/Pandemic_Simulation).
+- An AI & Robotics enthusiast.
+- Futuristic and Curious
 - Development: An Avalanche Risk Prediction Model for Aladağlar, Turkey
+- Side Project:A WhatsApp Analyzer
+
+ <a href="https://www.buymeacoffee.com/hosgungor" target="_blank"><img align="right" src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
 
 
