@@ -26,7 +26,7 @@
 <br />
 
 
-- Bachelor Degree in Mechanical Engineering / Master Degree in Computer Science
+- Master Degree in Computer Science / Bachelor Degree in Mechanical Engineering  
 - Just finished my dissertation about [Reinforcement learning in a Pandemic Simulation](https://github.com/Hsgngr/Pandemic_Simulation).
 - An AI & Robotics enthusiast.
 - Futuristic and Curious
