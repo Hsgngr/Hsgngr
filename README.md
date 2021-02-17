@@ -25,12 +25,11 @@
 <br />
 <br />
 
-
+- Data Scientist & ML Engineer at Dcipher Analytics
 - Master Degree in Computer Science / Bachelor Degree in Mechanical Engineering  
-- Just finished my dissertation about [Reinforcement learning in a Pandemic Simulation](https://github.com/Hsgngr/Pandemic_Simulation).
+- My Dissertation: [Reinforcement learning in a Pandemic Simulation](https://github.com/Hsgngr/Pandemic_Simulation).
 - An AI & Robotics enthusiast.
 - Futuristic and Curious
-- Development: An Avalanche Risk Prediction Model for Aladağlar, Turkey
 - Side Project: A WhatsApp Chat Analyzer
 
  <a href="https://www.buymeacoffee.com/hosgungor" target="_blank"><img align="right" src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
