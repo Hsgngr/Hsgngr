@@ -27,7 +27,7 @@
 
 - Data Scientist & ML Engineer at Dcipher Analytics working in Finance
 - Master Degree in Computer Science / Bachelor Degree in Mechanical Engineering  
-- My Dissertation: [Reinforcement learning in a Pandemic Simulation](https://github.com/Hsgngr/Pandemic_Simulation).
+- MSc. Dissertation: [Reinforcement learning in a Pandemic Simulation](https://github.com/Hsgngr/Pandemic_Simulation).
 - An AI & Robotics enthusiast.
 - Futuristic and Curious
 - Side Project: A WhatsApp Chat Analyzer
