@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I am Ege Hoşgüngör</h1>
-<h3 align="center">A passionate MSc Graduate in Computer Science from University of Sussex </h3>
+<h3 align="center">A passionate Data Scientist & ML Engineer</h3>
 
 
 <a href="https://www.linkedin.com/in/hosgungor/">
@@ -25,7 +25,7 @@
 <br />
 <br />
 
-- Data Scientist & ML Engineer at Dcipher Analytics working in Finance
+- Working at [Dcipher Analytics](https://www.dcipheranalytics.com/) in Finance with NLP
 - Master Degree in Computer Science / Bachelor Degree in Mechanical Engineering  
 - MSc. Dissertation: [Reinforcement learning in a Pandemic Simulation](https://github.com/Hsgngr/Pandemic_Simulation).
 - An AI & Robotics enthusiast.
