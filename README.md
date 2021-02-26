@@ -25,7 +25,7 @@
 <br />
 <br />
 
-- Working at [Dcipher Analytics](https://www.dcipheranalytics.com/) in Finance with NLP
+- Working at [Dcipher Analytics](https://www.dcipheranalytics.com/) in Finance Sector with NLP
 - Master Degree in Computer Science / Bachelor Degree in Mechanical Engineering  
 - MSc. Dissertation: [Reinforcement learning in a Pandemic Simulation](https://github.com/Hsgngr/Pandemic_Simulation).
 - An AI & Robotics enthusiast.
