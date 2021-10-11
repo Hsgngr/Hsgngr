@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/hosgungor/">
   <img align="left" alt="Ege's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Hsgngr">
-  <img align="left" alt="Ege's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://medium.com/@hosgungor">
   <img align="left" alt="Ege's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
@@ -20,6 +17,9 @@
 </a>
 <a href="https://www.kaggle.com/egehosgungor">
   <img align="left" alt="Ege's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
+<a href="https://github.com/Hsgngr">
+  <img align="left" alt="Ege's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 </a>
 <br />
