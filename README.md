@@ -25,7 +25,7 @@
 <br />
 <br />
 
-- Working at [Dcipher Analytics](https://www.dcipheranalytics.com/) on Reinforcement Learning on Finance Sector
+- Working at [Dcipher Analytics](https://www.dcipheranalytics.com/) on Reinforcement Learning in Finance Sector
 - Master Degree in Computer Science / Bachelor Degree in Mechanical Engineering  
 - MSc. Dissertation: [Reinforcement learning in a Pandemic Simulation](https://github.com/Hsgngr/Pandemic_Simulation).
 - Award Winning Bachelor Senior Year Project: [Haptic Feedback Glove for Virtual Reality (Unofficial Trailer)](https://www.youtube.com/watch?v=UaCITyHXu8I).
