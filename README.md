@@ -27,7 +27,7 @@
 
 -  🦾 Works at Robotics Industry 
 - ✍️ Writes blog posts about [Data Science](https://medium.com/@hosgungor) 
-- 💻/⚙️ Master Degree in Computer Science / Bachelor Degree in Mechanical Engineering 
+- 💻/⚙️ MSc in Computer Science / BSc in Mechanical Engineering 
 - 📝 MSc. Dissertation with a Distinction: [Reinforcement learning in a Pandemic Simulation](https://github.com/Hsgngr/Pandemic_Simulation) 
 - 🏆 Award Winning Bachelor Senior Year Project: [Haptic Feedback Glove for Virtual Reality (Unofficial Trailer)](https://www.youtube.com/watch?v=UaCITyHXu8I) 
 
