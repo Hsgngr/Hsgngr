@@ -29,7 +29,9 @@
 - ✍️ Writes blog posts about [Data Science](https://medium.com/@hosgungor) 
 - 💻/⚙️ MSc in Computer Science / BSc in Mechanical Engineering 
 - 📝 MSc. Dissertation with a Distinction: [Reinforcement learning in a Pandemic Simulation](https://github.com/Hsgngr/Pandemic_Simulation) 
-- 🏆 Award Winning Bachelor Senior Year Project: [Haptic Feedback Glove for Virtual Reality (Unofficial Trailer)](https://www.youtube.com/watch?v=UaCITyHXu8I) 
+- 🏆 Award Winning Bachelor Senior Year Project: [Haptic Feedback Glove for Virtual Reality (Unofficial Trailer)](https://www.youtube.com/watch?v=UaCITyHXu8I)
+- 🎭 Creates animatronics props for street performances [View the Portfolio](https://hsgngr.github.io/hosgungor/)
+ 
 
  <a href="https://www.buymeacoffee.com/hosgungor" target="_blank"><img align="right" src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
