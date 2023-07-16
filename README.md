@@ -23,6 +23,7 @@
 <br />
 <br />
 
+-  🤖 [smsbotu.com](https://smsbotu.com/) a SaaS Product created by me, powered by [OpenAI](https://platform.openai.com/playground)
 -  🦾 Works at Robotics Industry 
 - ✍️ Writes blog posts about [Data Science](https://medium.com/@hosgungor) 
 - 💻/⚙️ MSc in Computer Science / BSc in Mechanical Engineering 
