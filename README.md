@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I am Ege Hoşgüngör</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">Data Scientist</h3>
 
 
 <a href="https://www.linkedin.com/in/hosgungor/">
